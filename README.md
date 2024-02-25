@@ -39,11 +39,12 @@ To run InstaClone locally, follow these steps:
 
 ### Home Page
 
-![Screenshot_20240225-193512](https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/fa375a2e-33b3-4c95-bee0-ad1b1338191b)
+<img src="https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/fa375a2e-33b3-4c95-bee0-ad1b1338191b" alt="hehe" style="width:200px;height:400px;">
 
 
 ### Profile (Under Development)
-![Screenshot_20240225-193521](https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/be4305b5-75e2-49f6-904a-71c32672b5d5)
+
+<img src="https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/be4305b5-75e2-49f6-904a-71c32672b5d5" alt="hehe" style="width:200px;height:400px;">
 
 
 # Contributing
