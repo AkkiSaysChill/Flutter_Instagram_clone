@@ -35,4 +35,16 @@ To run InstaClone locally, follow these steps:
     flutter run
 
 
+## ScreenShot Of the UI
 
+### Home Page
+
+![Screenshot_20240225-193512](https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/fa375a2e-33b3-4c95-bee0-ad1b1338191b)
+
+
+### Profile (Under Development)
+![Screenshot_20240225-193521](https://github.com/AkkiSaysChill/Flutter_Instagram_clone/assets/97971429/be4305b5-75e2-49f6-904a-71c32672b5d5)
+
+
+# Contributing
+Contributions to InstaClone are welcome! If you'd like to contribute, feel free to open a pull request with your changes. Before submitting a pull request, please ensure that your code adheres to the project's coding conventions and that all tests pass successfully.
