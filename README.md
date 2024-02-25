@@ -17,12 +17,12 @@ To run InstaClone locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/AkkiSaysChill/instaclone.git
+   git clone https://github.com/AkkiSaysChill/Flutter_Instagram_clone.git
 
 2. Navigate to project Directory
  
     ```bash
-    cd instaclone
+    cd Flutter_Instagram_clone
 
 3. Get Dependencies
 
