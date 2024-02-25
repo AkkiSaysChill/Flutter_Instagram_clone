@@ -17,7 +17,7 @@ To run InstaClone locally, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/instaclone.git
+   git clone https://github.com/AkkiSaysChill/instaclone.git
 
 2. Navigate to project Directory
  
@@ -33,7 +33,6 @@ To run InstaClone locally, follow these steps:
 
     ```bash
     flutter run
-
 
 ## ScreenShot Of the UI
 
